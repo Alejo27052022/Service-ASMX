@@ -1,0 +1,11 @@
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\Servicio2\ClienteAsmx\bin\Debug\ClienteAsmx.exe.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\Servicio2\ClienteAsmx\bin\Debug\ClienteAsmx.exe
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\Servicio2\ClienteAsmx\bin\Debug\ClienteAsmx.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\Servicio2\ClienteAsmx\obj\Debug\ClienteAsmx.csproj.AssemblyReference.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\Servicio2\ClienteAsmx\obj\Debug\ClienteAsmx.csproj.SuggestedBindingRedirects.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\Servicio2\ClienteAsmx\obj\Debug\ClienteAsmx.Form1.resources
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\Servicio2\ClienteAsmx\obj\Debug\ClienteAsmx.Properties.Resources.resources
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\Servicio2\ClienteAsmx\obj\Debug\ClienteAsmx.csproj.GenerateResource.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\Servicio2\ClienteAsmx\obj\Debug\ClienteAsmx.csproj.CoreCompileInputs.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\Servicio2\ClienteAsmx\obj\Debug\ClienteAsmx.exe
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\Servicio2\ClienteAsmx\obj\Debug\ClienteAsmx.pdb
